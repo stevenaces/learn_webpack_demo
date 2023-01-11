@@ -1,0 +1,9 @@
+.image-bg {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-color: red;
+
+  background-image: url("../img/nhlt.jpg");
+  background-size: contain;
+}
